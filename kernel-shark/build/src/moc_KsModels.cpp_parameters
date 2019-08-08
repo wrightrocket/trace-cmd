@@ -1,7 +1,0 @@
--I/usr/local/src/trace-cmd/kernel-shark/src
--I/usr/local/src/trace-cmd/kernel-shark/build/src
--I/usr/include/json-c
--I/usr/local/src/trace-cmd/include
--o
-/usr/local/src/trace-cmd/kernel-shark/build/src/moc_KsModels.cpp
-/usr/local/src/trace-cmd/kernel-shark/src/KsModels.hpp
