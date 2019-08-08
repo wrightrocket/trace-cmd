@@ -1,0 +1,40 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/lib64/ccache/cc 
+Build flags: -g;-Wall;-D_GNU_SOURCE;-DWARN_NO_AUDIT;-DNO_AUDIT;-I/usr/local/src/trace-cmd/include;-I/usr/local/src/trace-cmd/../../include;-I/usr/local/src/trace-cmd/include/traceevent;-I/usr/local/src/trace-cmd/include/trace-cmd;-I/usr/local/src/trace-cmd/lib/traceevent/include;-I/usr/local/src/trace-cmd/lib/trace-cmd/include;-I/usr/local/src/trace-cmd/tracecmd/include;-I/usr/local/src/trace-cmd/tracecmd/include;'-DPLUGIN_DIR="/usr/local/lib/trace-cmd/plugins"';-DVAR_DIR="/var";;;-DHAVE_BLK_TC_FLUSH
+Id flags:  
+
+The output was:
+1
+cc: error: '-DPLUGIN_DIR="/usr/local/lib/trace-cmd/plugins"': No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/lib64/ccache/cc 
+Build flags: -g;-Wall;-D_GNU_SOURCE;-DWARN_NO_AUDIT;-DNO_AUDIT;-I/usr/local/src/trace-cmd/include;-I/usr/local/src/trace-cmd/../../include;-I/usr/local/src/trace-cmd/include/traceevent;-I/usr/local/src/trace-cmd/include/trace-cmd;-I/usr/local/src/trace-cmd/lib/traceevent/include;-I/usr/local/src/trace-cmd/lib/trace-cmd/include;-I/usr/local/src/trace-cmd/tracecmd/include;-I/usr/local/src/trace-cmd/tracecmd/include;'-DPLUGIN_DIR="/usr/local/lib/trace-cmd/plugins"';-DVAR_DIR="/var";;;-DHAVE_BLK_TC_FLUSH
+Id flags: -c 
+
+The output was:
+1
+cc: error: '-DPLUGIN_DIR="/usr/local/lib/trace-cmd/plugins"': No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/lib64/ccache/cc 
+Build flags: -g;-Wall;-D_GNU_SOURCE;-DWARN_NO_AUDIT;-DNO_AUDIT;-I/usr/local/src/trace-cmd/include;-I/usr/local/src/trace-cmd/../../include;-I/usr/local/src/trace-cmd/include/traceevent;-I/usr/local/src/trace-cmd/include/trace-cmd;-I/usr/local/src/trace-cmd/lib/traceevent/include;-I/usr/local/src/trace-cmd/lib/trace-cmd/include;-I/usr/local/src/trace-cmd/tracecmd/include;-I/usr/local/src/trace-cmd/tracecmd/include;'-DPLUGIN_DIR="/usr/local/lib/trace-cmd/plugins"';-DVAR_DIR="/var";;;-DHAVE_BLK_TC_FLUSH
+Id flags: -Aa 
+
+The output was:
+1
+cc: error: '-DPLUGIN_DIR="/usr/local/lib/trace-cmd/plugins"': No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/lib64/ccache/cc 
+Build flags: -g;-Wall;-D_GNU_SOURCE;-DWARN_NO_AUDIT;-DNO_AUDIT;-I/usr/local/src/trace-cmd/include;-I/usr/local/src/trace-cmd/../../include;-I/usr/local/src/trace-cmd/include/traceevent;-I/usr/local/src/trace-cmd/include/trace-cmd;-I/usr/local/src/trace-cmd/lib/traceevent/include;-I/usr/local/src/trace-cmd/lib/trace-cmd/include;-I/usr/local/src/trace-cmd/tracecmd/include;-I/usr/local/src/trace-cmd/tracecmd/include;'-DPLUGIN_DIR="/usr/local/lib/trace-cmd/plugins"';-DVAR_DIR="/var";;;-DHAVE_BLK_TC_FLUSH
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+cc: error: '-DPLUGIN_DIR="/usr/local/lib/trace-cmd/plugins"': No such file or directory
+
+

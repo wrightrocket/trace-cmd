@@ -1,0 +1,12 @@
+/usr/local/lib/kernelshark/libkshark.so.1.0.0
+/usr/local/lib/kernelshark/libkshark-plot.so.1.0.0
+/usr/local/bin/kernelshark
+/usr/local/bin/kshark-record
+/usr/local/lib/kernelshark/libkshark-gui.so.1.0.0
+/usr/local/share/applications/kernelshark.desktop
+/usr/local/share/icons/kernelshark/KS_icon_shark.svg
+/usr/local/share/icons/kernelshark/KS_icon_fin.svg
+/usr/share/polkit-1/actions/org.freedesktop.kshark-record.policy
+/usr/local/bin/kshark-su-record
+/usr/local/lib/kernelshark/plugins/plugin-sched_events.so
+/usr/local/lib/kernelshark/plugins/plugin-missed_events.so

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/libkshark-plugin.h
+traceevent/event-parse.h
+../src/traceevent/event-parse.h
+
+../src/libkshark.h
+stdint.h
+-
+pthread.h
+-
+errno.h
+-
+json-c/json.h
+-
+trace-cmd/trace-cmd.h
+../src/trace-cmd/trace-cmd.h
+trace-cmd/trace-filter-hash.h
+../src/trace-cmd/trace-filter-hash.h
+traceevent/event-parse.h
+../src/traceevent/event-parse.h
+libkshark-plugin.h
+../src/libkshark-plugin.h
+
+../src/plugins/sched_events.h
+libkshark.h
+../src/plugins/libkshark.h
+
+/usr/local/src/trace-cmd/kernel-shark/src/plugins/sched_events.c
+stdlib.h
+-
+stdio.h
+-
+assert.h
+-
+plugins/sched_events.h
+/usr/local/src/trace-cmd/kernel-shark/src/plugins/plugins/sched_events.h
+
